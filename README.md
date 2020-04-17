@@ -10,7 +10,7 @@ This repository contains files for simulating a flexible double pendulum on Matl
   </tr>
   <tr>
     <td><img src="Snapshots_and_Videos/WorkingModel.gif" width=405 height=480></td>
-    <td><img src="Snapshots_and_Videos/InitialCondition.jpg" width=405 height=480></td>
+    <td><img src="Snapshots_and_Videos/InitialCondition.jpeg" width=405 height=480></td>
   </tr>
 </table>
 
